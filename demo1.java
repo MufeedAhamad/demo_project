@@ -5,6 +5,8 @@ public class demo1 {
         System.out.println("Enter Two Numbers");
         int a = sc.nextInt();
         int b = sc.nextInt();
+
+        
         int temp =a;
         a = b;
         b = temp;
